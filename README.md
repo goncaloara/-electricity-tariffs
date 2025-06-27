@@ -1,1 +1,1 @@
-trabalho 2
+The main objective of this project is to build an interactive report in Power BI that allows users to explore and compare various electricity tariffs available in Portugal, based on real wholesale market electricity price data (OMIE) and personalized consumption-based simulations. This comparison will be complemented by an analysis of electricity production, providing a broader view of the factors influencing final consumer prices.
